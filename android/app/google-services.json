@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "786787549884",
+    "project_id": "whatsinit-ec59c",
+    "storage_bucket": "whatsinit-ec59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786787549884:android:5c247251bf4632e1ee06b9",
+        "android_client_info": {
+          "package_name": "com.webskitters.whatsinit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786787549884-n0p64qf7ce4usfsh0ll8nkbuuankgnno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webskitters.whatsinit",
+            "certificate_hash": "90b7ad41061ac2e4ae6833b26d42287498c4bcd3"
+          }
+        },
+        {
+          "client_id": "786787549884-falc69maf817c1dluos9lo1nu9q0qpec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudUSi4rivsfbDIYbVVVMLBusVmjrCSPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786787549884-falc69maf817c1dluos9lo1nu9q0qpec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786787549884-scq79ip5okk1lc0c1rvq3s4n925vo2pt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webskitters.whatsinit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
